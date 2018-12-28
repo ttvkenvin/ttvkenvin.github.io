@@ -11,8 +11,11 @@ For a football fan, a game, penal scoring is a very important and very important
 Features:
 
 1. Choose the one you support (like the team)
+
 2, let the football witly bypass the moving wall
+
 3, the most important: pass the goalkeeper, score
+
 4, through multiple levels, directly win the championship
 
 Come and try it, good luck!
@@ -22,6 +25,7 @@ Come and try it, good luck!
  Weltfußball wie
  
 ![image](https://github.com/ttvkenvin/ttvkenvin.github.io/blob/master/5.5-%E5%BE%B7%E6%96%87.png)
+
 Die Weltmeisterschaft 2018 ist gerade zu Ende, unabhängig davon, ob das Team, das Sie unterstützen, die Meisterschaft gewonnen oder mit Bedauern verlassen hat. Es ist egal, zu gehen ist für das nächste Mal besser.
 
 Für einen Fußballfan, ein Spiel, ist die Strafwertung eine sehr wichtige und sehr wichtige Torchance.
@@ -29,8 +33,11 @@ Für einen Fußballfan, ein Spiel, ist die Strafwertung eine sehr wichtige und s
 Eigenschaften:
 
 1. Wählen Sie die von Ihnen unterstützte (wie das Team)
+
 2, lassen Sie den Fußball witzig die bewegliche Wand umgehen
+
 3, das Wichtigste: den Torwart passieren, punkten
+
 Durch mehrere Ebenen gewinnen Sie direkt die Meisterschaft
 
 Kommen Sie und probieren Sie es aus, viel Glück!
@@ -47,8 +54,11 @@ Pour un fan de football, un match, le pointage pénal est une occasion de marque
 Caractéristiques:
 
 1. Choisissez celui que vous soutenez (comme l'équipe)
+
 2, laissez le football contourner spirituellement le mur en mouvement
+
 3, le plus important: passer le gardien de but, marquer
+
 4, à travers plusieurs niveaux, gagner directement le championnat
 
 Venez l'essayer, bonne chance!
@@ -63,9 +73,13 @@ Venez l'essayer, bonne chance!
 对于一个足球球迷来说，一场比赛，点球得分是非常重要也是非常关键的得分机会，我们这款游戏就是针对点球这一环节来实现的。
 
 特点：
+
 1、选择你支持的（喜欢的队伍）
+
 2、让足球机智地绕过移动的人墙
+
 3、最重要：穿过守门员，得分
+
 4、通过多个关卡，直接问鼎冠军
 
 赶紧来试试，祝你好运！
@@ -80,9 +94,13 @@ Venez l'essayer, bonne chance!
 フットボールのファンにとって、ゲーム、ペナルティスコアは非常に重要かつ非常に重要なスコアの機会です、私たちのゲームはペナルティキックを目指しています。
 
 特徴：
+
 1.あなたがサポートしているものを選ぶ（チームのように）
+
 2、サッカーは機知に富んで動く壁をバイパスしてみましょう
+
 3、最も重要な：ゴールキーパーを渡す、得点
+
 4、複数のレベルを通して、直接優勝する
 
 来て、試して、頑張ってください！
@@ -96,6 +114,7 @@ Venez l'essayer, bonne chance!
 ![image](https://github.com/ttvkenvin/ttvkenvin.github.io/blob/master/6.png)
 ![image](https://github.com/ttvkenvin/ttvkenvin.github.io/blob/master/7.png)
 
+# contact
 If you have any suggestions or comments, please feel free to contact us.
 Contact email: kevinwong190@gmail.com
 
